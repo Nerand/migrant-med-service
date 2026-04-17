@@ -7,10 +7,10 @@ Backend
 1. Перейти в папку backend
 
 macOS:
-cd /Users/nerand/Desktop/FMS/migrant-med-service/backend
+cd ../migrant-med-service/backend
 
 Windows:
-cd C:\Users\nerand\Desktop\FMS\migrant-med-service\backend
+cd ..\migrant-med-service\backend
 
 2. Создать виртуальное окружение
 
@@ -42,10 +42,10 @@ Frontend
 1. Открыть второй терминал и перейти в папку frontend
 
 macOS:
-cd /Users/nerand/Desktop/FMS/migrant-med-service/frontend
+cd ../migrant-med-service/frontend
 
 Windows:
-cd C:\Users\nerand\Desktop\FMS\migrant-med-service\frontend
+cd ..\migrant-med-service\frontend
 
 2. Установить зависимости frontend
 
